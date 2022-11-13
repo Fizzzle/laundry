@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>121820927719-la6jss6rn674fs30mddmtdg0o2lhsv3d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.121820927719-la6jss6rn674fs30mddmtdg0o2lhsv3d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDLdAsol6blVQy5n-HCChnqlugd5NDEEbM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>121820927719</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.laundryApp</string>
+	<key>PROJECT_ID</key>
+	<string>laundry-ab95e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>laundry-ab95e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:121820927719:ios:f3594d1bc93d1d3c5bb442</string>
+</dict>
+</plist>
